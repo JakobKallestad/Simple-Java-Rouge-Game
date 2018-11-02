@@ -1,0 +1,13 @@
+10 10 10 heart 5 💙 0 0
+7 10 10 potato 5 🥔 0 0
+10 10 10 bread 5 🥖 0 0
+6 10 10 carrot 5 🥕 0 0
+15 10 10 cheese 5 🧀 0 0
+9 10 10 mushroom 5 🍄 0 0
+25 10 10 doughnut 5 🍩 0 0
+10 10 10 onigiri 5 🍙 0 0
+7 10 10 salad 5 🥗 0 0
+12 10 10 water-melon 5 🍉 0 0
+10 10 10 banana 5 🍌 0 0
+4 10 10 eggplant 5 🍆 0 0
+30 10 10 ice-cream 5 🍦 0 0
